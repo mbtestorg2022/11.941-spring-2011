@@ -11,6 +11,7 @@ image_metadata:
     drought and severe over-withdrawal.
   credit: Image courtesy of an MIT student.
   image-alt: A built up town in an arid valley surrounded by mountains.
+parent_uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 resourcetype: Image
 title: A built up town in an arid valley surrounded by mountains
 uid: a52407e5-80e0-f543-e5cd-e50521186406

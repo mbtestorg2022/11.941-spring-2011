@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of an MIT student.
   image-alt: A photo of a cluster of floating homes that are built on a flood plain
     in Peru.
+parent_uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 resourcetype: Image
 title: A photo of a cluster of floating homes that are built on a flood plain in Peru
 uid: 792aff3c-b91c-0497-501c-65b69c9fe1a9

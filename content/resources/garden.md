@@ -13,6 +13,7 @@ image_metadata:
     crime.
   credit: Image courtesy of an MIT student.
   image-alt: An urban garden overlooks apartment buildings.
+parent_uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 resourcetype: Image
 title: An urban garden overlooks apartment buildings
 uid: 646a8f86-9b6d-b313-5654-00b742231095

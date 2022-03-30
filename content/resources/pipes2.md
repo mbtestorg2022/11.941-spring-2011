@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Informal water connections: vulnerability and resiliency.'
   credit: Image courtesy of Julia Tierney.
   image-alt: A network of pipes criss-cross the outside of a building.
+parent_uid: 3745d60e-fb70-ad25-33db-e9367e37025c
 resourcetype: Image
 title: A network of pipes criss-cross the outside of a building
 uid: 86eb84d2-ed48-def2-e0f9-d0958eb9eec3
