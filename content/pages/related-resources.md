@@ -63,7 +63,7 @@ Ebie, K. L. and I. Burton. "Identifying Practical Adaptation Options: An A0pproa
 Natural Resources
 -----------------
 
-FAO. 2007. "Adaptation to Climate Change in Agriculture, Forestry and Fisheries: Perspective, Framework and Priorities." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://ftp.fao.org/docrep/fao/009/j9271e/j9271e.pdf))
+FAO. 2007. "Adaptation to Climate Change in Agriculture, Forestry and Fisheries: Perspective, Framework and Priorities." ([PDF](ftp://ftp.fao.org/docrep/fao/009/j9271e/j9271e.pdf))
 
 Financing
 ---------
